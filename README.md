@@ -2,6 +2,7 @@
 title: Game of life
 description: Basic implementation of the game of life
 image: https://storage.googleapis.com/atta-images/docs/game-of-life/2022-08-24.gif
+build: https://storage.googleapis.com/atta-repos/game-of-life
 -->
 # Game of life
 
